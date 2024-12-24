@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 14 14:20:02 2020
 
-@author: aliha
-@twitter: rockingAli5 
-"""
 
 import warnings
 import time
